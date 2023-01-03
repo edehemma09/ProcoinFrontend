@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+procoinance.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+procoinance.com	TRUE	/	FALSE	1999999999	PHPSESSID	d5f65d8518d08a3eb3c882681821db1d
+
